@@ -2,6 +2,3 @@
 
 :wave: Hi! I'm Juma, an Android Engineer at @Backbase building banking solutions based in Nairobi.
 
-### :coffee: Wanna chat?
-📫 @ me on [Twitter](https://twitter.com/_jumaallan) about whatever!
-
