@@ -1,4 +1,14 @@
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-
-Hi! I'm Juma, an Android Engineer based in Nairobi.
+## <img width="45" alt="about" src="https://github.com/jumaallan/jumaallan/blob/master/jumaallan.jpeg"> Chief Plumber @ Stax
+```kotlin
+val jumaallan = developer {
+    about {
+        name = "Juma Allan"
+        role = Chief Plumber @ Stax
+    }
+    tech("Kotlin", "Golang", "Rust", "Swift")
+    links {
+        twitter = "jumaallan"
+    }
+}
+```
 
