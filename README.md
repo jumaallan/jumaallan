@@ -7,7 +7,7 @@ val jumaallan = developer {
     }
     tech("Kotlin", "Golang", "Rust", "Swift")
     links {
-        twitter = "jumaallan"
+        twitter = "@_jumaallan"
     }
 }
 ```
