@@ -1,4 +1,4 @@
-## <img width="45" alt="about" src="https://github.com/jumaallan/jumaallan/blob/master/jumaallan.jpeg"> Chief Plumber @ Stax
+## <img width="35" alt="about" src="https://github.com/jumaallan/jumaallan/blob/master/jumaallan.jpeg"> Chief Plumber @ Stax
 ```kotlin
 val jumaallan = developer {
     about {
